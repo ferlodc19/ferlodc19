@@ -2,11 +2,11 @@
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="120" />
 
-  <h1>¡Hola, soy Fernando Aziel! 💻</h1>
+  <h1>¡Hola, soy Fernando Ugalde! 💻</h1>
 
   <hr>
 
-  <p>👨‍💻 <b>Ingeniero en Informática en proceso @ IPN | Full-Stack Developer</b></p>
+  <p>👨‍💻 <b>Estudiante de Ingeniería en Informática @ IPN | Full-Stack Developer</b></p>
 
   <p><i>"Construyendo soluciones desde el Front-end hasta el Back-end, un commit a la vez."</i></p>
 
