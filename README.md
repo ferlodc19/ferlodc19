@@ -19,16 +19,12 @@
 
 ### 🚀 Sobre mí
 
-Soy un apasionado por crear experiencias web interactivas y arquitecturas backend robustas aplicando siempre principios sólidos de POO. Mi formación me permite moverme fluidamente entre el desarrollo de sistemas a bajo nivel y la creación de plataformas Full-Stack escalables. Actualmente enfocándome en **Ingeniería de Software** e **Inteligencia Artificial**.
-
-* 🔭 **Trabajando en:** Plataformas institucionales (React + .NET) y preparándome para el KAVAK x OpenAI Hackathon.
-* 🌱 **Aprendiendo:** Frameworks de agentes de IA en Python y sistemas de Mejora Personal Recursiva (RSI).
-* ⚡ **Dato curioso:** Disfruto del diseño de compiladores, estructurar bases de datos complejas y diseñar interfaces minimalistas.
+Soy un apasionado por el desarrollo de software y la creacion de experiencias web interactivas y arquitecturas robustas. En mi experiencia  académica, he trabajado en el diseño y desarrollo de sistemas a bajo nivel a medida, integrando interfaces modernas y la crecacion de plataformas Full-Stack escalables. Actualmente, también exploro frameworks de agentes de Inteligencia Artificial en Python y me preparo para competencias de Mejora Personal Recursiva (RSI).
 
 <br>
 <hr>
 
-### 🛠️ Lenguajes y Tecnologías
+### ✍🏽 Lenguajes y Tecnologías
 
 <p align="left">
   <!-- Frontend & Frameworks -->
@@ -53,7 +49,5 @@ Soy un apasionado por crear experiencias web interactivas y arquitecturas backen
   <!-- Tools -->
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-
 <br>
 <hr>
