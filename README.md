@@ -5,7 +5,7 @@
   <h1>¡Hola, soy Fernando Ugalde! 🥷🏽</h1>
 
 
-  <p><b>Ingeniero en Informática en @ IPN | Full-Stack Developer and Software Design</b></p>
+  <p><b>Ingeniero en Informática @ IPN | Full-Stack Developer and Software Design</b></p>
 
   <p><i>"Live for today, plan for tomorrow, party tonight."</i></p>
 
@@ -18,7 +18,9 @@
 
 ### 🚀 Sobre mí
 
-Soy un apasionado por el desarrollo de software y la creacion de experiencias web interactivas y arquitecturas robustas. En mi experiencia  académica, he trabajado en el diseño y desarrollo de sistemas a bajo nivel a medida, integrando interfaces modernas y la crecacion de plataformas Full-Stack escalables. Actualmente, también exploro frameworks de agentes de Inteligencia Artificial en Python y me preparo para competencias de Mejora Personal Recursiva (RSI).
+Soy un apasionado por el desarrollo de software y la creación de experiencias web interactivas y arquitecturas robustas. En mi experiencia  académica, he trabajado en el diseño y desarrollo de sistemas a bajo nivel a medida, integrando interfaces modernas y la crecación de plataformas Full-Stack escalables. Actualmente, también exploro frameworks de agentes de Inteligencia Artificial en Python y me preparo para competencias de Mejora Personal Recursiva (RSI).
+
+⚡ Fuera del código: Fiel seguidor del FC Barcelona y siempre programando con música de Drake y Ye de fondo.
 
 <hr>
 
