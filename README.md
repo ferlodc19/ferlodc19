@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un apasionado por el desarrollo de software, la creación de experiencias web interactivas y el diseño de arquitecturas robustas. En mi experiencia académica, he trabajado en el diseño de sistemas personalizados a bajo nivel, integrando interfaces modernas con la construcción de plataformas Full-Stack escalables. Actualmente, también exploro frameworks de agentes de Inteligencia Artificial en Python y me preparo para competencias de Mejora Personal Recursiva (RSI).
+Soy un apasionado por el desarrollo de software, la creación de experiencias web interactivas y el diseño de arquitecturas robustas. En mi experiencia académica, he trabajado en el diseño de sistemas personalizados a bajo nivel, integrando interfaces modernas con la construcción de plataformas Full-Stack escalables. Actualmente, exploro frameworks de agentes de Inteligencia Artificial en Python y me preparo para competencias de Mejora Personal Recursiva (RSI).
 
 ⚡ Fuera del código: Fiel seguidor del FC Barcelona y mi entorno de desarrollo siempre está ambientado con buena música de Drake y Ye.
 
