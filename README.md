@@ -14,15 +14,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferlodc19)
 
 </div>
-
-<br>
 <hr>
 
 ### 🚀 Sobre mí
 
 Soy un apasionado por el desarrollo de software y la creacion de experiencias web interactivas y arquitecturas robustas. En mi experiencia  académica, he trabajado en el diseño y desarrollo de sistemas a bajo nivel a medida, integrando interfaces modernas y la crecacion de plataformas Full-Stack escalables. Actualmente, también exploro frameworks de agentes de Inteligencia Artificial en Python y me preparo para competencias de Mejora Personal Recursiva (RSI).
 
-<br>
 <hr>
 
 ### ✍🏽 Lenguajes y Tecnologías
