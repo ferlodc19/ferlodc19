@@ -30,7 +30,7 @@ Soy un apasionado por crear experiencias web interactivas y arquitecturas backen
 <br>
 <hr>
 
-### 🛠️ Mi Arsenal Tecnológico (Tech Stack)
+### 🛠️ Lenguajes y Tecnologias
 
 | Lenguajes | Web & Backend | Herramientas & Datos |
 | :---: | :---: | :---: |
