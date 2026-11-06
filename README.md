@@ -18,10 +18,9 @@
 
 ### 🚀 Sobre mí
 
-Soy un apasionado por el desarrollo de software y la creación de experiencias web interactivas y arquitecturas robustas. En mi experiencia  académica, he trabajado en el diseño y desarrollo de sistemas a bajo nivel a medida, integrando interfaces modernas y la crecación de plataformas Full-Stack escalables. Actualmente, también exploro frameworks de agentes de Inteligencia Artificial en Python y me preparo para competencias de Mejora Personal Recursiva (RSI).
+Soy un apasionado por el desarrollo de software, la creación de experiencias web interactivas y el diseño de arquitecturas robustas. En mi experiencia académica, he trabajado en el diseño de sistemas personalizados a bajo nivel, integrando interfaces modernas con la construcción de plataformas Full-Stack escalables. Actualmente, también exploro frameworks de agentes de Inteligencia Artificial en Python y me preparo para competencias de Mejora Personal Recursiva (RSI).
 
-⚡ Fuera del código: Fiel seguidor del FC Barcelona y siempre programando con música de Drake y Ye de fondo.
-
+⚡ Fuera del código: Fiel seguidor del FC Barcelona <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/150px-FC_Barcelona_%28crest%29.svg.png" width="18" align="center" />
 <hr>
 
 ### ✍🏽 Lenguajes y Tecnologías
