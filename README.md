@@ -4,6 +4,7 @@
 
   <h1>¡Hola, soy Fernando Ugalde! 🥷🏽</h1>
 
+
   <p><b>Ingeniero en Informática en @ IPN | Full-Stack Developer and Software Design</b></p>
 
   <p><i>"Construyendo soluciones desde el Front-end hasta el Back-end, un commit a la vez."</i></p>
