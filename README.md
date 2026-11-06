@@ -2,7 +2,7 @@
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="120" />
 
-  <h1>¡Hola, soy Fernando Ugalde! 💻</h1>
+  <h1>¡Hola, soy Fernando Ugalde! 🥷🏽</h1>
 
   <p><b>Ingeniero en Informática en @ IPN | Full-Stack Developer and Software Design</b></p>
 
