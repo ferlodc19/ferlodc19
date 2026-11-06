@@ -1,50 +1,47 @@
-# 🏛️ Plataforma de Trámites
+# ¡Hola! Soy Fernando Ugalde 👋
 
-Un sistema web de registro y gestión de trámites institucionales. Este proyecto permite a los usuarios llenar un formulario estructurado, cargar documentos adjuntos y generar un folio único de seguimiento, además de contar con un panel de historial para visualizar y descargar reportes.
+Estudiante de **Ingeniería en Informática** en el **IPN** (Instituto Politécnico Nacional) y desarrollador de software apasionado por crear experiencias web interactivas y arquitecturas backend robustas. 
 
-## ✨ Características Principales
+Me especializo en el desarrollo Full-Stack, conectando interfaces de usuario fluidas con APIs eficientes y bases de datos relacionales, aplicando siempre principios sólidos de ingeniería de software.
 
-- **Formulario Estructurado:** Captura de datos personales, económicos y de domicilio divididos en secciones claras.
-- **Carga de Documentos:** Validación y almacenamiento de archivos requeridos (PDF y TXT).
-- **Generación de Folio Único:** Asignación automática de un número de folio (ej. `TR-04154`) al completar el registro.
-- **Historial de Trámites:** Vista de tabla minimalista (desktop) y tarjetas (móvil) ordenada por los registros más recientes.
-- **Diseño Mobile-First:** Interfaz limpia, responsiva e institucional construida con Tailwind CSS.
+### 🚀 Sobre mí
 
-## 🛠️ Tecnologías Utilizadas
+- 🎓 Actualmente cursando Ingeniería en Informática, profundizando en bases de datos, teoría de autómatas y diseño de compiladores.
+- 💻 Disfruto mantener el código limpio y organizado, prefiriendo arquitecturas bien separadas y estructuradas.
+- 🤖 Actualmente explorando frameworks de agentes de Inteligencia Artificial en Python y sistemas de mejora personal recursiva (RSI) orientados a tool-calling.
+- 🏆 Preparándome para competir en el **KAVAK x OpenAI x Primero AI · RSI Hackathon**.
+- 🌎 Nivel de inglés: Intermedio.
 
-**Frontend:**
-- React 18
-- TypeScript
-- Tailwind CSS
-- Vite
-- React Router DOM
+### 🛠️ Mi Stack Tecnológico
 
-**Backend:**
-- C# / .NET (ASP.NET Core Web API)
-- Entity Framework Core (Code-First)
-- PostgreSQL (Base de datos relacional)
+**Front-end:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## 🗄️ Estructura de la Base de Datos
+**Back-end & Bases de Datos:**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-El sistema utiliza una arquitectura relacional en PostgreSQL para mantener la integridad de los datos, separando la información en las siguientes tablas:
-- `Registros` (Tabla principal con Folio y Fecha)
-- `DatoPersonal`
-- `DatoEconomico`
-- `Domicilio`
-- `Archivo` (Rutas de almacenamiento de los archivos locales)
+**Entorno & Herramientas:**
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Requisitos Previos
+### 📂 Proyectos Destacados
 
-Antes de ejecutar el proyecto, asegúrate de tener instalado:
-- [Node.js](https://nodejs.org/) (v18 o superior)
-- [.NET SDK](https://dotnet.microsoft.com/) (v7 o v8)
-- [PostgreSQL](https://www.postgresql.org/)
+- **Plataforma de Trámites:** Un sistema institucional backend/frontend para la gestión de registros con generación de folios, carga de documentos y almacenamiento relacional (C#, .NET Core, React, PostgreSQL).
+- **Karpicentro POS & E-commerce:** Plataforma Full-Stack de comercio electrónico y punto de venta desarrollada a medida para el sector mueblero.
+- **Especificación de Lenguaje (BNF):** Diseño y gramática Backus-Naur Form para un lenguaje de programación experimental conceptual.
 
-## ⚙️ Instalación y Configuración
+### 📫 Cómo contactarme
 
-Sigue estos pasos para correr el proyecto en tu entorno local:
+- **LinkedIn:** [Tu Enlace de LinkedIn aquí](https://linkedin.com/in/TU_USUARIO)
+- **Email:** [Tu Correo de contacto aquí](mailto:tu-correo@ejemplo.com)
 
-### 1. Clonar el repositorio
-```bash
-git clone [https://github.com/TU_USUARIO/PlataformaTramites.git](https://github.com/TU_USUARIO/PlataformaTramites.git)
-cd PlataformaTramites
+---
+⭐️ *Construyendo soluciones desde el Front-end hasta el Back-end, un commit a la vez.*
