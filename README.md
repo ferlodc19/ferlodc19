@@ -6,7 +6,7 @@
 
   <hr>
 
-  <p>👨‍💻 <b>Estudiante de Ingeniería en Informática @ IPN | Full-Stack Developer, Cybersecurity, Artificial Intelligence and Software Development.</b></p>
+  <p>👨‍💻 <b>Estudiante de Ingeniería en Informática @ IPN | Full-Stack Developer and Software Development.</b></p>
 
   <p><i>"Construyendo soluciones desde el Front-end hasta el Back-end, un commit a la vez."</i></p>
 
