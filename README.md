@@ -4,11 +4,11 @@
 
   <h1>¡Hola, soy Fernando Ugalde! 💻</h1>
 
-  <p>👨‍💻 <b>Ingeniero en Informática en @ IPN | Full-Stack Developer and Software Development</b></p>
+  <p><b>Ingeniero en Informática en @ IPN | Full-Stack Developer and Software Design</b></p>
 
   <p><i>"Construyendo soluciones desde el Front-end hasta el Back-end, un commit a la vez."</i></p>
 
-  <a href="https://linkedin.com/in/TU_USUARIO">
+  <a href="https://linkedin.com/in/fernando-ugaldey">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
