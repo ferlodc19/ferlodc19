@@ -3,7 +3,7 @@
 <kbd>Full-Stack Developer | Software Engineering</kbd>
 <br><br>
 
-Me llamo Fernando Aziel, soy estudiante de **Ingeniería en Informática en el IPN**. Me apasiona el desarrollo de software y la creación de arquitecturas robustas. En mi experiencia profesional y académica, he trabajado en el diseño y desarrollo de **plataformas institucionales de gestión de trámites** (React + .NET) y **sistemas de E-commerce / Punto de Venta (POS)** a medida, integrando interfaces modernas con bases de datos relacionales seguras. Actualmente, también exploro frameworks de agentes de Inteligencia Artificial en Python y me preparo para competencias de Mejora Personal Recursiva (RSI).
+Soy estudiante de **Ingeniería en Informática en el IPN**. Me apasiona el desarrollo de software y la creación de arquitecturas robustas. En mi experiencia profesional y académica, he trabajado en el diseño y desarrollo de **plataformas institucionales de gestión de trámites** (React + .NET) y **sistemas de E-commerce / Punto de Venta (POS)** a medida, integrando interfaces modernas con bases de datos relacionales seguras. Actualmente, también exploro frameworks de agentes de Inteligencia Artificial en Python y me preparo para competencias de Mejora Personal Recursiva (RSI).
 
 Fuera de la programación, soy un gran apasionado de los deportes, especialmente del fútbol, y soy fiel seguidor del **FC Barcelona**. Además, mi entorno de desarrollo siempre está ambientado con buena música; soy gran fan de artistas como **Drake, Travis Scott y Don Toliver**.
 
@@ -47,7 +47,9 @@ Fuera de la programación, soy un gran apasionado de los deportes, especialmente
 
 ---
 
-### 📊 Estadísticas
+### 📊 Proyectos
+
+Coming soon...
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
