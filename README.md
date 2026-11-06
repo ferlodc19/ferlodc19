@@ -7,7 +7,7 @@
 
   <p><b>Ingeniero en Informática en @ IPN | Full-Stack Developer and Software Design</b></p>
 
-  <p><i>"Construyendo soluciones desde el Front-end hasta el Back-end, un commit a la vez."</i></p>
+  <p><i>"Live for today, plan for tomorrow, party tonight."</i></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-ugaldey/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.ugaldey@gmail.com)
