@@ -4,7 +4,7 @@
 
   <h1>¡Hola, soy Fernando Ugalde!</h1>
 
-  <p><b>Ingeniero en Informática @ IPN | Full-Stack Developer and Software Design</b></p>
+  <p><b>Computer Engineer Student @ IPN | Full-Stack Developer and Software Design</b></p>
 
   <p><i>"Last name Ever, first name Greatest."</i></p>
 
